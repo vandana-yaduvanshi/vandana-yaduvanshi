@@ -30,3 +30,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vandana-yaduvanshi/vandana-yaduvanshi/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vandana-yaduvanshi/vandana-yaduvanshi/output/pacman-contribution-graph.svg">
 </picture>
+- Updated in June
