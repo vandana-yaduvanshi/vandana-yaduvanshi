@@ -37,3 +37,4 @@
 - June 23 update
 - June 25 update
 - June 29 update
+- June 27 update
