@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vandana</h1>
-<h3 align="center">A B.Tech CSE student who loves building things with code</h3>
+<h3 align="center">A passionate B.Tech CSE student who loves building things with code</h3>
 
 <p align="center">
   <a href="https://github.com/vandana-yaduvanshi">
@@ -14,23 +14,12 @@
 - 🔭 I'm currently working on **100 Days of Code - DSA**
 - 🌱 I'm currently learning **Data Structures, Algorithms & Web Development**
 - 💬 Ask me about **C, DSA, and Linux basics**
-- 📫 How to reach me: **vandana18yadav03@gmail.com**
+- 📫 How to reach me: **vandana18yadav03@gmail.com** (Official Email)
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/vandanaxyadav)**
 - ⚡ Fun fact: **I love solving problems step by step!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=c,linux,linkedin" />
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vandana-yaduvanshi&show_icons=true&theme=radical" alt="vandana-yaduvanshi" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vandana-yaduvanshi&theme=radical" alt="vandana-yaduvanshi" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandana-yaduvanshi&layout=compact&theme=radical" alt="vandana-yaduvanshi" />
-</p>
+ 
