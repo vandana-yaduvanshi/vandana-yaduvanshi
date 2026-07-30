@@ -1,0 +1,21 @@
+name: pacman contribution graph
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: abozanona/pacman-contribution-graph@v1
+        with:
+          github_user_name: vandana-yaduvanshi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
