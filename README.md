@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/vandana-yaduvanshi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=B.Tech+CSE+Student+at+UPES;Learning+Data+Structures+%26+Algorithms;Exploring+Web+Dev+%26+Linux" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+at+UPES;Learning+Data+Structures+%26+Algorithms;Exploring+Web+Dev+%26+Linux" alt="Typing SVG" />
   </a>
 </p>
 
